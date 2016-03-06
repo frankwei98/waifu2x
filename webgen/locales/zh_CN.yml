@@ -1,0 +1,24 @@
+---
+description: Single-Image Super-Resolution for Anime-Style Art using Deep Convolutional Neural Networks. And it supports photo.
+show_demonstration: Show full demonstration
+go_to_github: 去GitHub查看代码
+image_choosing: 选择照片
+type_url: 输入URL
+choose_file: 或者选择一个文件
+file_limits: "限制: 图片大小: 3MB, 减少噪点: 2560x2560px, 放大照片: 1280x1280px."
+style: 风格
+artwork: 动漫作品
+photo: 照片
+noise_reduction: 减少噪点
+expect_jpeg: expect JPEG artifact
+nr_none: 无
+nr_medium: 中
+nr_high: 高
+nr_hint: "如果照片有噪点，你需要给图片降噪。否则会适得其反."
+upscaling: 放大
+up_none: None
+button_convert: 转换
+button_download: 下载
+hints:
+  - "如果你正在使用火狐浏览器, 请按CTRL+S 保存图片 . \"Save Image\" 选项无法运作."
+  
